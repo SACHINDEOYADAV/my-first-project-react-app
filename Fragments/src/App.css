@@ -1,0 +1,12 @@
+.sk-item{
+  background-color: rgb(38, 255, 0);
+} 
+.sk-span{
+  font-weight: 1000;
+  color: blue;
+}
+.food-heading{
+  text-align: center;
+  background-color: #356485;
+  color: rgb(139, 6, 108);
+}
